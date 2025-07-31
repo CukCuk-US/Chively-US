@@ -29,7 +29,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ### Old Versions
 
-You can download previous versions from [`installation-files.md`](installation-files.md).
+You can download previous versions from [`installation-files.md`](https://cukcuk-us.github.io/Chively-US/installation-files.html).
 
 ### Remote control 
 Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk)

@@ -24,8 +24,8 @@ To download a file, simply click the corresponding link. If you encounter any is
 | Application | Version | Download |
 |---|---|---|
 | **Chively Mobile Sales** | RC20.2 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC20.1/Sales_RC20_0_0_2.apk) |
-| **Chively Mobile KDS** | RC20 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC20.1/KDS_RC20_0_0_1.apk) |
-| **Chively Mobile Manager** | RC20 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC20.1/Manager_RC20_0_0_1.apk) |
+| **Chively Mobile KDS** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/KDS_RC21_0_0_0.apk) |
+| **Chively Mobile Manager** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Manager_RC21_0_0_0.apk) |
 
 ### Remote control 
 Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk)

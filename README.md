@@ -23,9 +23,9 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **Chively Mobile Sales** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Sales_RC21_0_0_0.apk) |
-| **Chively Mobile KDS** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/KDS_RC21_0_0_0.apk) |
-| **Chively Mobile Manager** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Manager_RC21_0_0_0.apk) |
+| **Chively Mobile Sales** | 1.0.0 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Sales_1_0_0.apk) |
+| **Chively Mobile KDS** | 1.0.0 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/KDS_1_0_0.apk) |
+| **Chively Mobile Manager** | 1.0.0 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Manager_1_0_0.apk) |
 
 ### Old Versions
 

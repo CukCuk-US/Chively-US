@@ -23,7 +23,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **Chively Mobile Sales** | RC20.2 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC20.1/Sales_RC20_2_0_0.apk) |
+| **Chively Mobile Sales** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Sales_RC21_0_0_0.apk) |
 | **Chively Mobile KDS** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/KDS_RC21_0_0_0.apk) |
 | **Chively Mobile Manager** | RC21 | [Download](https://github.com/CukCuk-US/Chively-US/releases/download/RC21/Manager_RC21_0_0_0.apk) |
 
